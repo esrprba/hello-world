@@ -1,2 +1,6 @@
 # hello-world
-Simple Repository!
+
+Hi Humans!
+
+Its me, Thanos!
+Prepare yourself!
